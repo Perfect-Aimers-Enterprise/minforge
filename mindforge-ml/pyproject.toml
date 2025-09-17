@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hypertension-ml"
+version = "0.1.0"
+description = "A custom ML package for hypertension prediction and clustering"
+authors = [
+  { name="Godsave Kawurem", email="godsaveogbidor@gmail.com" },
+  { name="Perfect Aimers Enterprise", email="perfectaimersenterprise@gmail.com" }
+]
+license = { text = "MIT" }
+readme = "README.md"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "pytorch"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
