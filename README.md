@@ -1,5 +1,7 @@
 # MindForge ML – Hypertension Anomaly Detection
 
+`MindForge` is an open-source ML library offering simple, consistent, and extensible tools for building and experimenting with models. Starting with unsupervised learning and anomaly detection, it aims to expand into deep learning, NLP, and predictive analytics, making ML more accessible, modular, and production-ready.
+
 `mindforge_ml` provides simple unsupervised ML tools for anomaly detection, clustering, and visualization.
 The core component is an **AutoEncoder** wrapped in `Unsupervisedmodel`, with utilities for clustering (KMeans), dimensionality reduction (PCA/t-SNE), and visualization.
 
@@ -273,3 +275,11 @@ plot_anomalies(errors, anomalies, threshold)
 * Visualization is most meaningful when applied to **latent features** and **anomaly scores**.
 
 ---
+
+
+## GET DEMO DATASET FOR USAGE 
+
+from mindforge_ml.datasets.loader import load_hypertension_data
+
+df = load_hypertension_data()
+print(df.head())
