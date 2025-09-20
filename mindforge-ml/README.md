@@ -2,7 +2,7 @@
 
 `MindForge` is an open-source ML library offering simple, consistent, and extensible tools for building and experimenting with models. Starting with unsupervised learning and anomaly detection, it aims to expand into deep learning, NLP, and predictive analytics, making ML more accessible, modular, and production-ready.
 
-`mindforge_ml` provides simple unsupervised ML tools for anomaly detection, clustering, and visualization.
+`mindforge` provides simple unsupervised ML tools for anomaly detection, clustering, and visualization.
 The core component is an **AutoEncoder** wrapped in `Unsupervisedmodel`, with utilities for clustering (KMeans), dimensionality reduction (PCA/t-SNE), and visualization.
 
 ---
@@ -283,3 +283,143 @@ from mindforge_ml.datasets.loader import load_hypertension_data
 
 df = load_hypertension_data()
 print(df.head())
+
+
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+# MindForge Transformer Model
+
+## 🚀 Features
+
+* **Unified API** for building ML models
+* **NLP utilities** for tokenization and sequence-to-sequence tasks
+* **Visualization tools** to track training metrics (loss, accuracy)
+* **Supports CPU and GPU** with automatic device selection
+* **Extensible modules** for datasets, utils, and supervised learning
+
+---
+
+## 📦 Installation
+
+```bash
+pip install mindforge-ml
+```
+
+---
+
+## 📂 Package Structure
+
+MindForge modules are organized into sub-packages for clarity:
+
+```python
+from mindforge_ml.datasets.loader import seq2seqdataset
+from mindforge_ml.utils import tokenize, smart_tokenizer, ml_vocab_size, pad_token_id
+from mindforge_ml.visualization import plot_losses, plot_accuracy
+from mindforge_ml.supervised.model import MFTransformerSeq2Seq
+```
+
+* **`datasets.loader`** → dataset utilities (e.g., `seq2seqdataset`)
+* **`utils`** → tokenization helpers, vocab size, padding utilities
+* **`visualization`** → plotting training loss and accuracy
+* **`supervised.model`** → supervised models (e.g., custom transformer `MFTransformerSeq2Seq`)
+
+---
+
+## 🛠️ Usage Example
+
+### 1. Import Dependencies
+
+```python
+import torch
+from transformers import AutoTokenizer
+
+from mindforge_ml.datasets.loader import seq2seqdataset
+from mindforge_ml.utils import tokenize, smart_tokenizer, ml_vocab_size, pad_token_id
+from mindforge_ml.visualization import plot_losses, plot_accuracy
+from mindforge_ml.supervised.model import MFTransformerSeq2Seq
+```
+
+---
+
+### 2. Load Tokenizer and Data
+
+```python
+tokenizer = AutoTokenizer.from_pretrained("t5-base")
+
+# Example dataset (pairs of input/output text)
+queries = ["What is a boy?", "Translate English to French: Hello world"]
+targets = ["A male child", "Bonjour le monde"]
+
+# Convert to tokenized tensors
+input_ids, attention_mask, labels = seq2seqdataset(queries, targets, tokenizer)
+```
+
+---
+
+### 3. Initialize Model
+
+```python
+device = "cuda" if torch.cuda.is_available() else "cpu"
+model = MFTransformerSeq2Seq(vocab_size=ml_vocab_size(), device=device)
+```
+
+---
+
+### 4. Train Model
+
+```python
+losses = model.fit(input_ids, attention_mask, labels, epochs=10, batch_size=2)
+
+# Visualize training progress
+plot_losses(losses)
+```
+
+---
+
+### 5. Make Predictions
+
+```python
+query = "What is a boy?"
+prediction = model.predict(query, max_len=20)
+print("Prediction:", prediction)
+```
+
+---
+
+### 6. Visualize Accuracy
+
+```python
+# If accuracy tracking is enabled during training
+accuracies = [0.45, 0.52, 0.63, 0.71, 0.80]  # example
+plot_accuracy(accuracies)
+```
+
+---
+
+## ⚡ Roadmap
+
+Planned features for upcoming releases:
+
+* 🔹 **Computer Vision** (CNNs, image datasets, augmentation)
+* 🔹 **Reinforcement Learning** (agents, environments)
+* 🔹 **Advanced NLP** (transformer variants, embeddings, pretraining)
+* 🔹 **Time Series & Predictive Analytics**
+* 🔹 **Model Deployment & Export**
+
+---
+
+## 📜 License
+
+MindForge is released under the **MIT License**, encouraging open collaboration and community contributions.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please submit issues, feature requests, or pull requests on [GitHub](https://github.com/Perfect-Aimers-Enterprise/mindforge).

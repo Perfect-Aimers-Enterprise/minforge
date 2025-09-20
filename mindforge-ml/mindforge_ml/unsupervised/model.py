@@ -46,6 +46,8 @@ class Unsupervisedmodel:
                                 torch.tensor(X, dtype=torch.float32))
         loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
 
+        self.train_losses = []
+
         for epoch in range(epochs):
             self.model.train()
             total_loss = 0
@@ -60,8 +62,12 @@ class Unsupervisedmodel:
                 self.optimizer.step()
                 total_loss += loss.item()
             
+            avg_loss = total_loss / len(loader)
+            self.train_losses.append(avg_loss) 
             if verbose:
                 print(f"Epoch {epoch+1}/{epochs} - Loss: {total_loss/len(loader):.4f}")
+
+        return self.train_losses
 
     def transform(self, X):
         """Return latent features"""
@@ -82,7 +88,7 @@ class Unsupervisedmodel:
         X_tensor = torch.tensor(X, dtype=torch.float32).to(self.device)
         with torch.inference_mode():
             reconstructed, _ = self.model(X_tensor)
-            errors = torch.mean((X_tensor, reconstructed) **2, dim=1)
+            errors = torch.mean((X_tensor - reconstructed) **2, dim=1)
         return errors.cpu().numpy()
     
     def save(self, path="hypertension_model.pth"):

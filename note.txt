@@ -1,0 +1,8 @@
+from mindforge_ml.utils import cluster_kmeans, reduce_pca, reduce_tsne
+from mindforge_ml.visualization import plot_clusters
+
+latent_cluster = cluster_kmeans(latent)
+latent_reduce_pca = reduce_pca(latent)
+latent_reduce_tsne = reduce_tsne(latent)
+
+plot_clusters(X_2d=latent_reduce_pca, clusters=latent_cluster)
