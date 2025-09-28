@@ -1,9 +1,11 @@
 import torch
 import torch.nn as nn
+from mindforge_ml.utils import text_to_tensor
+
 
 class IntentClassifierLayer(nn.Module):
   def __init__(self, input_dim, hidden=64, num_classes=4):
-    super(IntentClassifier, self).__init__()
+    super(IntentClassifierLayer, self).__init__()
     self.model = nn.Sequential(
         nn.Linear(input_dim, 128),
         nn.ReLU(),
@@ -39,6 +41,7 @@ class IntentClassifier:
 
         for epoch in range(epochs):
             # Training 
+            X_train, y_train = X_train.to(self.device), y_train.to(self.device)
             self.model.train()
             total_loss = 0
             total_accuracy = 0
@@ -66,10 +69,11 @@ class IntentClassifier:
         self.train_accuracies.append(avg_accuracy)
 
 
-        if X_val and y_val:
+        if X_val is not None and y_val is not None:
            # validation
             self.model.eval()
             with torch.inference_mode():
+                X_val, y_val = X_val.to(self.device), y_val.to(self.device)
                 total_val_loss = 0
                 total_val_accuracy = 0
                 total_val_batch = 0
@@ -93,13 +97,15 @@ class IntentClassifier:
                 
             if verbose:
                 if (epoch + 1) % 10 == 0:
-                    print(f"Epoch [{epoch+1}/{epochs}] || Loss: {self.avg_loss:.4f} || Val Loss: {self.avg_val_loss:.4f} || Accuracy: {self.avg_accuracy:.4f} || Val Acc: {self.avg_val_accuracy:.4f}")
+                    print(f"Epoch [{epoch+1}/{epochs}] || Loss: {avg_loss:.4f} || Val Loss: {avg_val_loss:.4f} || Accuracy: {avg_accuracy:.4f} || Val Acc: {avg_val_accuracy:.4f}")
                     
 
-    def predict(self, X_input, idx2label):
+    def predict(self, sentence, idx2label):
         self.model.eval()
         # Forward pass
         with torch.inference_mode():
+            X_input = text_to_tensor(sentence).to(self.device)
+            
             y_preds = self.model(X_input)
 
             # Get probabilities
@@ -115,8 +121,13 @@ class IntentClassifier:
             return prediction, probability
         
     def save(self, path="intent_classifier_model.pth"):
-        torch.save(self.model.state_dict(), path)
+        torch.save({
+            "model_state": self.model.state_dict(),
+            "optimizer_state": self.optimizer.state_dict()
+        }, path)
+
 
     def load(self, path="intent_classifier_model.pth"):
         self.model.load_state_dict(torch.load(path, map_location=self.device))
+        self.optimizer.load_state_dict(torch.load(path, map_location=self.device))
         self.model.to(self.device)

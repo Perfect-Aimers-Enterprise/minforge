@@ -130,3 +130,11 @@ def intent_tensor_dataset(path, batch_size=32, ndim=96):
     val_loader = DataLoader(val_dataset, batch_size=batch_size)
 
     return train_loader, val_loader, idx2label
+
+
+
+nlp = spacy.load("en_core_web_sm")
+
+def text_to_tensor(text):
+    vector = nlp(text).vector  # convert text to embedding
+    return torch.tensor(vector, dtype=torch.float).unsqueeze(0)  # shape (1, dim)

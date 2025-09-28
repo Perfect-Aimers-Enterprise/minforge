@@ -490,7 +490,7 @@ train_loader, val_loader, idx2label = intent_tensor_dataset(
 
 ```python
 import torch
-from mindforge_ml.models import IntentClassifier
+from mindforge_ml.supervised.classifier.model import IntentClassifier
 
 # Input dimension = size of vectors (96 or 300)
 classifier = IntentClassifier(input_dim=96)
@@ -564,6 +564,43 @@ classifier.load("intent_model.pth")
 * Pretrained intent models for quick inference
 
 ---
+
+
+### 📄 Accessing Training and Validation Losses & Accuracies
+
+After training your `IntentClassifier` using the `fit()` method, the following **instance attributes** store the loss and accuracy values for each epoch:
+
+| Attribute          | Description                                  |
+| ------------------ | -------------------------------------------- |
+| `train_losses`     | List of training loss values per epoch       |
+| `train_accuracies` | List of training accuracy values per epoch   |
+| `val_losses`       | List of validation loss values per epoch     |
+| `val_accuracies`   | List of validation accuracy values per epoch |
+
+#### Example Usage
+
+```python
+# Train the model
+model.fit(X_train, y_train, X_val, y_val, epochs=50)
+
+# Access training metrics
+print("Training Losses:", model.train_losses)
+print("Training Accuracies:", model.train_accuracies)
+
+# Access validation metrics
+print("Validation Losses:", model.val_losses)
+print("Validation Accuracies:", model.val_accuracies)
+```
+
+These lists can be used directly for **plotting training curves**:
+
+```python
+from mindforge_ml.visualization import plot_losses, plot_accuracy
+
+plot_losses(model.train_losses, model.val_losses)
+plot_accuracy(model.train_accuracies, model.val_accuracies)
+```
+
 
 ## 📜 License
 
