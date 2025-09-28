@@ -1,8 +1,17 @@
-from mindforge_ml.utils import cluster_kmeans, reduce_pca, reduce_tsne
-from mindforge_ml.visualization import plot_clusters
+import torch.nn as nn
 
-latent_cluster = cluster_kmeans(latent)
-latent_reduce_pca = reduce_pca(latent)
-latent_reduce_tsne = reduce_tsne(latent)
-
-plot_clusters(X_2d=latent_reduce_pca, clusters=latent_cluster)
+class IntentClassifier(nn.Module):
+  def __init__(self, input_dim=300, hidden=64, num_classes=4):
+    super(IntentClassifier, self)
+    nn.Sequential(
+        nn.Linear(input_dim, 128),
+        nn.ReLu(),
+        nn.Dropout(0.3),
+        nn.Linear(128, hidden),
+        nn.ReLu(),
+        nn.Dropout(0.3),
+        nn.Linear(hidden, 32),
+        nn.ReLu(),
+        nn.Dropout(0.3),
+        nn.Linear(32, num_classes)
+    )

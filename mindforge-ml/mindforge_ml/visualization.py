@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt
 
 def plot_losses(train_losses, val_losses=None):
-    plt.figure(figsize=(8,5))
+    plt.figure(figsize=(12,5))
+    plt.subplot(1,2,1)
     plt.plot(train_losses, label="Train Loss")
     if val_losses is not None:
         plt.plot(val_losses, label="Val Loss")
@@ -12,7 +13,8 @@ def plot_losses(train_losses, val_losses=None):
     plt.show()
 
 def plot_accuracy(train_accuracy, val_accuracy=None):
-    plt.figure(figsize=(8,5))
+    plt.figure(figsize=(12,5))
+    plt.subplot(1,2,1)
     plt.plot(train_accuracy, label="Train Accuracy")
     if val_accuracy is not None:
         plt.plot(val_accuracy, label="Val Accuracy")
@@ -44,3 +46,23 @@ def plot_anomalies(errors, anomalies, threshold):
     plt.ylabel("Frequency")
     plt.legend()
     plt.show()
+
+
+def plot_prediction(prediction, probability):
+
+    classes = list(probability.keys())
+    probs = [float(v.strip('%')) for v in probability.values()]  # convert "92.34%" → 92.34
+
+    plt.figure(figsize=(6,4))
+    plt.bar(classes, probs, color="skyblue")
+    plt.ylabel("Probability (%)")
+    plt.title(f"Prediction: {prediction}")
+    plt.ylim(0, 100)
+
+    # Add labels on top of bars
+    for i, v in enumerate(probs):
+        plt.text(i, v+1, f"{v:.2f}%", ha='center')
+
+    plt.show()
+
+    return prediction, probability

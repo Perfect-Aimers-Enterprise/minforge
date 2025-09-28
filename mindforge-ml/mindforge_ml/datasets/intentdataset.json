@@ -1,0 +1,4002 @@
+[
+    {
+        "intent": "The post contains a step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected physics concept explained in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a guide on climate change awareness online",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on math lesson",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a math lesson online",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded tips for healthy diet to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected tutorial on python programming in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a tutorial on python programming online",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded learn a new language app to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected step by step tutorial on Excel in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected educational video on history in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on math lesson",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a career advice for students online",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a math lesson",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a coding workshop for beginners online",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected training material for leadership in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a science experiment guide online",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a how to save money online",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected motivational speech about studying in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a step by step tutorial on Excel online",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a course about renewable energy online",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected tips for healthy diet in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected math lesson in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded math lesson to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded educational video on history to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a math lesson",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded coding workshop for beginners to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a tips for healthy diet online",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded guide on climate change awareness to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded educational podcast on philosophy to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded course about renewable energy to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching math lesson",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a educational video on history online",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a educational podcast on philosophy online",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected instructional manual for cooking in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded digital marketing training to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a motivational speech about studying online",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected educational podcast on philosophy in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a training material for leadership online",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected science experiment guide in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: math lesson",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded training material for leadership to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded physics concept explained to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded step by step tutorial on Excel to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a digital marketing training online",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded career advice for students to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: educational video on history",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded how to save money to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded lesson on world geography to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a physics concept explained online",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: math lesson",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected lesson on world geography in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected digital marketing training in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching how to save money",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on science experiment guide",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes study guide for exams",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a lesson on world geography online",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "Learning resource: coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "User shared a learn a new language app online",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes tutorial on python programming",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded study guide for exams to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded tutorial on python programming to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected coding workshop for beginners in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Blog post published on digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes instructional manual for cooking",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: digital marketing training",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about training material for leadership",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected career advice for students in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "Recorded class teaching lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected study guide for exams in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes math lesson",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected how to save money in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "Reference document on educational podcast on philosophy",
+        "target": "educative"
+    },
+    {
+        "intent": "Guide for beginners on learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a tips for healthy diet",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: learn a new language app",
+        "target": "educative"
+    },
+    {
+        "intent": "Lesson plan includes motivational speech about studying",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: guide on climate change awareness",
+        "target": "educative"
+    },
+    {
+        "intent": "Detected learn a new language app in the content",
+        "target": "educative"
+    },
+    {
+        "intent": "The post contains a lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "This video explains a step by step tutorial on Excel",
+        "target": "educative"
+    },
+    {
+        "intent": "Uploaded motivational speech about studying to the platform",
+        "target": "educative"
+    },
+    {
+        "intent": "Explainer article: physics concept explained",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a coding workshop for beginners",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: course about renewable energy",
+        "target": "educative"
+    },
+    {
+        "intent": "Live session was about career advice for students",
+        "target": "educative"
+    },
+    {
+        "intent": "Educational material: lesson on world geography",
+        "target": "educative"
+    },
+    {
+        "intent": "This is a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a random joke sharing online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: normal family dinner photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded morning coffee photo to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: sunset at the beach",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded music playlist recommendation to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a music playlist recommendation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a casual conversation online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a sunset at the beach",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded birthday party picture to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: music playlist recommendation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a regular morning selfie",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded daily routine sharing to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a regular morning selfie",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a casual conversation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a normal family dinner photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected sunset at the beach in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected morning coffee photo in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a garden with flowers online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a normal family dinner photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a regular morning selfie",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected shopping list discussion in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: regular morning selfie",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a street view photo online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded normal family dinner photo to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a normal family dinner photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected holiday travel photo in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a casual conversation",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a weather forecast today online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded holiday travel photo to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a regular morning selfie",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected regular morning selfie in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a casual conversation",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded chat about football to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a picture of a dog online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded casual conversation to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded shopping list discussion to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: sunset at the beach",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a music playlist recommendation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded bus timetable info to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a normal family dinner photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a bus timetable info online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded street view photo to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a music playlist recommendation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected talk about school in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded picture of a dog to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded weather forecast today to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded random cooking recipe to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a talk about school online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: casual conversation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected daily routine sharing in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a casual conversation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a music playlist recommendation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected birthday party picture in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a birthday party picture online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: sunset at the beach",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a sunset at the beach",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: normal family dinner photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded garden with flowers to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: music playlist recommendation",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a shopping list discussion online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a casual conversation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded regular morning selfie to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a normal family dinner photo online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected train arriving at the station in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: chat about football",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected picture of a dog in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a daily routine sharing online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a music playlist recommendation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Uploaded sunset at the beach to the platform",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected street view photo in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a random cooking recipe online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a morning coffee photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a casual conversation",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: random joke sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a normal family dinner photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: normal family dinner photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a train arriving at the station",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected random joke sharing in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a music playlist recommendation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a sunset at the beach",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a bus timetable info",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a garden with flowers",
+        "target": "neutral"
+    },
+    {
+        "intent": "Status update shows a weather forecast today",
+        "target": "neutral"
+    },
+    {
+        "intent": "Timeline post of a street view photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a sunset at the beach online",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a train arriving at the station online",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a holiday travel photo online",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a music playlist recommendation online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: casual conversation",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected garden with flowers in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "This is a sunset at the beach",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a regular morning selfie",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Story shared about a random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected random cooking recipe in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected music playlist recommendation in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Detected chat about football in the content",
+        "target": "neutral"
+    },
+    {
+        "intent": "Friendly chat about a picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a shopping list discussion",
+        "target": "neutral"
+    },
+    {
+        "intent": "Shared moment: daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a daily routine sharing",
+        "target": "neutral"
+    },
+    {
+        "intent": "Photo captured: picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "User shared a chat about football online",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a birthday party picture",
+        "target": "neutral"
+    },
+    {
+        "intent": "Public message containing a holiday travel photo",
+        "target": "neutral"
+    },
+    {
+        "intent": "Conversation started with a regular morning selfie",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a picture of a dog",
+        "target": "neutral"
+    },
+    {
+        "intent": "Daily update: random cooking recipe",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a sunset at the beach",
+        "target": "neutral"
+    },
+    {
+        "intent": "Blog post included a talk about school",
+        "target": "neutral"
+    },
+    {
+        "intent": "The post contains a uncensored nude picture",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a sexually explicit conversation",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a nude art image live",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a uncensored adult cartoon",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a sexually revealing magazine cover",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded explicit sex tape to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded XXX content to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a pornographic video live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded leaked nude picture to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a topless beach photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a uncensored adult cartoon online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected full nudity stage performance in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared naked selfie shared through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting naked selfie shared in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a provocative erotic clip online",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a full nudity stage performance online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a provocative erotic clip in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded XXX content to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a uncensored erotic poster in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a uncensored nude picture",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected uncensored adult cartoon in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded pornographic video to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a explicit sex tape",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a full nudity stage performance",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting intimate bedroom photo in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing uncensored adult cartoon",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting provocative lingerie photo in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected explicit adult photo in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a adult webcam stream in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a topless beach photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a nude art image online",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a pornographic video in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a sexually revealing magazine cover",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a sexually revealing magazine cover in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a provocative lingerie photo in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing full nudity stage performance",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a XXX content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a leaked private nude chat live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a nude art image",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a adult webcam stream online",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a sexually explicit conversation in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a sexually explicit conversation in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting leaked private nude chat in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a leaked private nude chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing sexually revealing magazine cover",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a pornographic video in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a sexually revealing magazine cover",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a topless beach photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a explicit adult photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a nude art image live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared uncensored adult cartoon through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded leaked private nude chat to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a full nudity stage performance shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a explicit sex tape shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a sexually revealing magazine cover shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a leaked private nude chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded full nudity stage performance to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a adult webcam stream in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting NSFW explicit drawing in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a explicit sex tape",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing leaked private nude chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a topless beach photo online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a explicit sex tape in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a explicit adult photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded uncensored adult cartoon to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared adult webcam stream through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a NSFW explicit drawing live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded leaked private nude chat to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded sexually explicit conversation to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected full nudity stage performance in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a provocative lingerie photo live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a provocative erotic clip",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected intimate bedroom photo in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded XXX content to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a intimate bedroom photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing provocative erotic clip",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a explicit adult photo shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a intimate bedroom photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a adult webcam stream in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting explicit sex tape in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected sexually revealing magazine cover in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared adult webcam stream through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected adult webcam stream in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a uncensored erotic poster in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a topless beach photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a naked selfie shared",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a uncensored nude picture online",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a nude art image online",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a naked selfie shared in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a uncensored erotic poster in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a naked selfie shared",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a intimate bedroom photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected sexually revealing magazine cover in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a sexually revealing magazine cover",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a naked selfie shared shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a provocative lingerie photo live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a pornographic video shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a sexually explicit conversation",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a provocative lingerie photo live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared leaked private nude chat through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing XXX content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a adult webcam stream in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a uncensored erotic poster online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing nude art image",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a sexually revealing magazine cover",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting pornographic video in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded explicit adult photo to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared leaked private nude chat through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a explicit adult photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting explicit adult photo in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a topless beach photo online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting provocative lingerie photo in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a topless beach photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a adult webcam stream live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a XXX content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a provocative erotic clip",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a provocative lingerie photo in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a XXX content shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a pornographic video in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a nude art image in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a uncensored erotic poster",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a nude art image",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a full nudity stage performance online",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a explicit sex tape",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a adult webcam stream",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a naked selfie shared online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a topless beach photo live",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a sexually explicit conversation",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared uncensored erotic poster through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a adult webcam stream",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a leaked nude picture",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded full nudity stage performance to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a naked selfie shared online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing naked selfie shared",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing provocative erotic clip",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected full nudity stage performance in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a uncensored nude picture",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a full nudity stage performance in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a full nudity stage performance",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a nude art image in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting full nudity stage performance in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a leaked private nude chat live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a uncensored erotic poster",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a explicit adult photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a explicit sex tape",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a uncensored nude picture",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a provocative lingerie photo in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a NSFW explicit drawing live",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a full nudity stage performance in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a naked selfie shared live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a sexually explicit conversation",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting explicit adult photo in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing explicit sex tape",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a naked selfie shared",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a adult webcam stream",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a XXX content live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected sexually revealing magazine cover in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a leaked private nude chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a uncensored adult cartoon",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting NSFW explicit drawing in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a uncensored adult cartoon",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a full nudity stage performance in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting NSFW explicit drawing in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a full nudity stage performance online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a intimate bedroom photo live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a intimate bedroom photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a nude art image online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a sexually explicit conversation live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a sexually revealing magazine cover shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a uncensored nude picture in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a sexually revealing magazine cover",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a nude art image",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded explicit sex tape to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a topless beach photo in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a explicit adult photo shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a leaked nude picture live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a explicit sex tape shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a XXX content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a uncensored erotic poster",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a sexually explicit conversation live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a naked selfie shared",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a topless beach photo in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared topless beach photo through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a sexually revealing magazine cover shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing naked selfie shared",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a full nudity stage performance in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a XXX content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing leaked nude picture",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a provocative erotic clip",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected intimate bedroom photo in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a leaked nude picture",
+        "target": "nudity"
+    },
+    {
+        "intent": "User shared a uncensored adult cartoon online",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting leaked nude picture in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a sexually explicit conversation",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected explicit sex tape in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a explicit sex tape",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared explicit adult photo through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a provocative erotic clip",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a explicit sex tape shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a leaked private nude chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "There was a provocative lingerie photo in the gallery",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected full nudity stage performance in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "This is a pornographic video",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing explicit sex tape",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a NSFW explicit drawing",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a explicit adult photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a uncensored erotic poster",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a provocative lingerie photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a sexually explicit conversation in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing uncensored nude picture",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared explicit adult photo through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Screenshot of a leaked private nude chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a uncensored erotic poster",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded pornographic video to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Uploaded uncensored nude picture to the platform",
+        "target": "nudity"
+    },
+    {
+        "intent": "Private message with a leaked private nude chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared pornographic video through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Shared sexually explicit conversation through social media",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a leaked private nude chat in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a adult webcam stream live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a leaked private nude chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing naked selfie shared",
+        "target": "nudity"
+    },
+    {
+        "intent": "Streaming a provocative erotic clip live",
+        "target": "nudity"
+    },
+    {
+        "intent": "Someone posted a uncensored adult cartoon in the chat",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing full nudity stage performance",
+        "target": "nudity"
+    },
+    {
+        "intent": "The post contains a explicit sex tape",
+        "target": "nudity"
+    },
+    {
+        "intent": "Posting adult webcam stream in comments",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicitly shows a intimate bedroom photo",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a full nudity stage performance shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Found a explicit sex tape shared publicly",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected topless beach photo in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Flagged for containing uncensored erotic poster",
+        "target": "nudity"
+    },
+    {
+        "intent": "Detected explicit adult photo in the content",
+        "target": "nudity"
+    },
+    {
+        "intent": "Explicit use of a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a offensive political rant online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a harsh online trolling",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of homophobic remark in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a homophobic remark",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a sexist joke in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a toxic gaming chat online",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a mocking someone's disability online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a toxic gaming chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a insulting someone's looks in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a bullying message online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a personal attack online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a harsh online trolling",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a toxic gaming chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a racial slur comment in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of offensive nickname in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of verbal abuse in argument in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a racial slur comment online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a homophobic remark",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a insulting someone's looks online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a body shaming insult online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of offensive political rant in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of hate speech about religion in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of body shaming insult in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a harsh online trolling",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for harsh online trolling",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a angry insulting rant in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of toxic gaming chat in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a homophobic remark",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a homophobic remark in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of harsh online trolling in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a harsh online trolling online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of sexist joke in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a curse word spam in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a homophobic remark",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a offensive political rant in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of angry insulting rant in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a harsh online trolling",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a demeaning workplace message online",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a hate speech about religion online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a homophobic remark",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a toxic gaming chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a toxic gaming chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a harsh online trolling",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a toxic gaming chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a toxic gaming chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of demeaning workplace message in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a harsh online trolling",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a verbal abuse in argument in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a violent threat in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a angry insulting rant online",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a verbal abuse in argument online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a toxic gaming chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a disrespectful meme in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of mocking someone's disability in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a personal attack",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a homophobic remark",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of personal attack in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a derogatory statement online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a homophobic remark",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of insulting someone's looks in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a mocking someone's disability in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a homophobic remark online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of bullying message in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a toxic gaming chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Live stream had a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a derogatory statement",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a harsh online trolling",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a hate speech about religion in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a violent threat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "User posted a violent threat online",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a offensive political rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a insulting someone's looks",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "Message flagged for body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a toxic gaming chat in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a bullying message in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a mocking someone's disability",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a sexist joke",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a angry insulting rant",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a derogatory statement in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a body shaming insult in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of racial slur comment in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "The comment contained a offensive nickname",
+        "target": "offensive"
+    },
+    {
+        "intent": "Report of derogatory statement in the forum",
+        "target": "offensive"
+    },
+    {
+        "intent": "Public message containing a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Reply included a verbal abuse in argument",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a body shaming insult",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a bullying message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Private DM had a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Someone shared a demeaning workplace message",
+        "target": "offensive"
+    },
+    {
+        "intent": "Captured screenshot of a curse word spam",
+        "target": "offensive"
+    },
+    {
+        "intent": "This post shows a racial slur comment",
+        "target": "offensive"
+    },
+    {
+        "intent": "Detected a personal attack in the chat",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a hate speech about religion",
+        "target": "offensive"
+    },
+    {
+        "intent": "This is an example of a homophobic remark",
+        "target": "offensive"
+    },
+    {
+        "intent": "Status update with a disrespectful meme",
+        "target": "offensive"
+    },
+    {
+        "intent": "Explicit use of a body shaming insult",
+        "target": "offensive"
+    }
+]

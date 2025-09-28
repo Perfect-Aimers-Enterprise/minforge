@@ -5,6 +5,12 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 from transformers import AutoTokenizer
+import json
+import torch
+import spacy
+from torch.utils.data import TensorDataset, DataLoader
+from sklearn.model_selection import train_test_split
+
 
 def scale_data(X):
     scaler = StandardScaler()
@@ -77,3 +83,50 @@ def smart_tokenizer(query, target, max_len=512, stride=128):
     attention_mask=inputs['attention_mask']
     labels=inputs['labels']
     return input_ids, attention_mask, labels
+
+
+def intent_tensor_dataset(path, batch_size=32, ndim=96):
+    # Load dataset
+    with open(path) as f:
+        dataset = json.load(f)
+
+    model_map = {
+        96: "en_core_web_sm",
+        300: "en_core_web_md"
+    }
+
+    nlp = spacy.load(model_map.get(ndim, "en_core_web_sm"))
+
+    # Collect unique labels from dataset
+    labels = sorted(set(item["target"] for item in dataset))
+
+    # Auto-generate mappings
+    label2idx = {label: idx for idx, label in enumerate(labels)}
+    idx2label = {idx: label for label, idx in label2idx.items()}
+
+    
+    X = []
+    y = []
+
+    for data in dataset:
+        intent = data['intent']
+        target = data['target']
+
+        vector = nlp(intent).vector
+        X.append(torch.tensor(vector, dtype=torch.float))
+        y.append(torch.tensor(label2idx[target]))
+
+
+    X = torch.stack(X)
+    y = torch.tensor(y)
+
+    X_train, X_val, y_train, y_val = train_test_split(
+    X, y, test_size=0.2, random_state=42, stratify=y)
+
+    train_dataset = TensorDataset(X_train, y_train)
+    val_dataset = TensorDataset(X_val, y_val)
+
+    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
+    val_loader = DataLoader(val_dataset, batch_size=batch_size)
+
+    return train_loader, val_loader, idx2label

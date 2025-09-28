@@ -423,3 +423,150 @@ MindForge is released under the **MIT License**, encouraging open collaboration 
 ## 🤝 Contributing
 
 Contributions are welcome! Please submit issues, feature requests, or pull requests on [GitHub](https://github.com/Perfect-Aimers-Enterprise/mindforge).
+
+
+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""''"""""
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+# MindForge-ML — Intent Classification
+
+`mindforge-ml` provides a simple and extensible pipeline for **Intent Classification** using PyTorch and spaCy.
+With just a few lines, you can load datasets, train intent classifiers, and visualize predictions.
+
+---
+
+## 🚀 Installation
+
+```bash
+pip install mindforge-ml
+```
+
+---
+
+## 📂 Dataset Format
+
+Datasets should be JSON files containing a list of samples with:
+
+* `intent`: The input text
+* `target`: The corresponding class label
+
+**Example (`intentdataset.json`)**:
+
+```json
+[
+  {"intent": "How are you?", "target": "neutral"},
+  {"intent": "Show me math tricks", "target": "educative"},
+  {"intent": "That's stupid!", "target": "offensive"},
+  {"intent": "Send me nudes", "target": "nudity"}
+]
+```
+
+---
+
+## 🛠 Usage
+
+### 1. Prepare Dataset
+
+```python
+from mindforge_ml.utils import intent_tensor_dataset
+
+# Load dataset into PyTorch loaders + labels
+train_loader, val_loader, idx2label = intent_tensor_dataset(
+    "mindforge_ml/datasets/intentdataset.json", 
+    batch_size=32, ndim=96
+)
+```
+
+* `ndim=96` → uses **spaCy `en_core_web_sm`** vectors
+* `ndim=300` → uses **spaCy `en_core_web_md`** vectors
+
+---
+
+### 2. Train the Classifier
+
+```python
+import torch
+from mindforge_ml.models import IntentClassifier
+
+# Input dimension = size of vectors (96 or 300)
+classifier = IntentClassifier(input_dim=96)
+
+for X_train, y_train in train_loader:
+    classifier.fit(X_train, y_train, X_val=None, y_val=None, epochs=50)
+```
+
+---
+
+### 3. Make Predictions
+
+```python
+prediction, probability = classifier.predict(X_input, idx2label)
+print("Prediction:", prediction)
+print("Probabilities:", probability)
+```
+
+---
+
+### 4. Visualize Predictions
+
+```python
+from mindforge_ml.visualization import plot_prediction
+
+plot_prediction(prediction, probability)
+```
+
+![Prediction Plot Example](https://via.placeholder.com/500x300?text=Prediction+Plot)
+
+---
+
+### 5. Plot Training Curves
+
+```python
+from mindforge_ml.visualization import plot_accuracy, plot_losses
+
+plot_losses(classifier.train_losses, classifier.val_losses)
+plot_accuracy(classifier.train_accuracies, classifier.val_accuracies)
+```
+
+---
+
+## 📦 Saving and Loading Models
+
+```python
+classifier.save("intent_model.pth")
+classifier.load("intent_model.pth")
+```
+
+---
+
+## ✨ Features
+
+* Automatic dataset handling (`intent_tensor_dataset`)
+* Train/test split with stratification
+* Flexible vector dimensions (`sm` = 96, `md` = 300)
+* Ready-to-use PyTorch classifier
+* Visualization utilities for:
+
+  * Predictions
+  * Accuracy curves
+  * Loss curves
+
+---
+
+## 🔮 Roadmap
+
+* Support for transformer embeddings (BERT, DistilBERT, etc.)
+* Hyperparameter tuning utilities
+* Pretrained intent models for quick inference
+
+---
+
+## 📜 License
+
+MIT License © 2025 Perfect Aimers Enterprise
+
+---

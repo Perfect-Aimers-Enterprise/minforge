@@ -35,7 +35,7 @@ class AutoEncoder(nn.Module):
 
 class Unsupervisedmodel:
     def __init__(self, input_dim, lr=1e-3, weight_decay=0.0, device=None):
-        print("DEBUG -> weight_decay:", weight_decay)  # 👈 add this
+        print("DEBUG -> weight_decay:", weight_decay)
         self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
         self.model = AutoEncoder(input_dim).to(self.device)
         self.criterion = nn.MSELoss()

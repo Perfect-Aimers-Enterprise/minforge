@@ -151,3 +151,10 @@ class MFTransformerSeq2Seq:
 
         # 4. Decode prediction into text
         return tokenizer.decode(generated.squeeze().tolist(), skip_special_tokens=True)
+
+    def save(self, path="transformer_model.pth"):
+        torch.save(self.model.state_dict(), path)
+
+    def load(self, path="transformer_model.pth"):
+        self.model.load_state_dict(torch.load(path, map_location=self.device))
+        self.model.to(self.device)

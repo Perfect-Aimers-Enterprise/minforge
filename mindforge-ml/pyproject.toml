@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mindforge-ml"
-version = "0.1.6"
+version = "0.1.8"
 description="An open-source machine learning library for research and production, offering unified tools across deep learning, NLP, computer vision, reinforcement learning, and predictive analytics."
 authors = [
   { name="Godsave Kawurem", email="godsaveogbidor@gmail.com" }
@@ -18,7 +18,8 @@ dependencies = [
     "scikit-learn",
     "matplotlib",
     "seaborn",
-    "torch"
+    "torch",
+    "spacy"
 ]
 keywords = ["machine learning", "AI", "scikit-learn", "deep learning", "pytorch", "mindforge"]
 classifiers = [
